@@ -1,0 +1,10 @@
+{
+  "pages": ["pages/demo/index"],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weapp boilerplate",
+    "navigationBarBackgroundColor": "#f8f8f8",
+    "backgroundColor": "#f8f8f8",
+    "backgroundTextStyle": "light"
+  }
+}
